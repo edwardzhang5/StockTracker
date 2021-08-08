@@ -7,12 +7,12 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install needed 
 
 # Dependencies
 
-python 3.x
-pandas
-numpy
-scipy
-pyalgotrade
-yfinance
+python 3.x <br/>
+pandas <br/>
+numpy <br/>
+scipy <br/>
+pyalgotrade <br/>
+yfinance <br/>
 
 # MIT License
 [MIT](https://choosealicense.com/licenses/mit/)
